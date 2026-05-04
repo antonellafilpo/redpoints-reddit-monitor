@@ -1,0 +1,48 @@
+name: Reddit LLM Thread Monitor — Weekly
+
+on:
+  schedule:
+    # Every Monday at 7:00am UTC (after blog monitor runs at 6am)
+    - cron: "0 7 * * 1"
+  workflow_dispatch:  # allow manual runs from Actions tab
+
+permissions:
+  contents: write   # needed to push index.html and data/ to the repo
+
+jobs:
+  run-monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install requests python-dotenv
+
+      - name: Run Reddit monitor
+        env:
+          OMNIA_TOKEN:        ${{ secrets.OMNIA_TOKEN }}
+          OMNIA_BRAND_ID:     ${{ secrets.OMNIA_BRAND_ID }}
+          ANTHROPIC_API_KEY:  ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_WEBHOOK_URL:  ${{ secrets.SLACK_WEBHOOK_URL }}
+          GSHEET_ID:          ${{ secrets.GSHEET_ID }}
+          GSHEET_API_KEY:     ${{ secrets.GSHEET_API_KEY }}
+          REPORT_URL:         ${{ secrets.REPORT_URL }}
+        run: python reddit_monitor.py
+
+      - name: Commit and push dashboard
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html data/
+          git diff --cached --quiet || git commit -m "chore: update reddit monitor [${{ env.TODAY }}]"
+          git push
+        env:
+          TODAY: ${{ steps.date.outputs.date }}
