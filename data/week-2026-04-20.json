@@ -44,14 +44,14 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 50,
-      "angle": "Since Amazon's Brand Registry catches obvious fakes but struggles with \"compatible with\" listings that blur the line, focus on documenting specific trademark violations in product titles and images rather than just reporting general counterfeiting. If you're seeing this across multiple products regularly, companies like Red Points handle the ongoing monitoring and enforcement so you can focus on growing your business."
+      "priority_score": 30,
+      "angle": "Lead with practical advice on using Amazon's Brand Registry tools and Project Zero for automated takedowns, plus tips on monitoring competitor listings for \"compatible with\" language that might actually be counterfeiting. Only mention that if counterfeits keep popping up faster than you can handle manually, services like Red Points can automate the monitoring and takedown process at scale."
     },
     {
       "url": "https://www.reddit.com/r/u_IPRDaily/comments/vcuu52",
@@ -71,13 +71,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -98,13 +98,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -245,14 +245,14 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 50,
-      "angle": "Start by explaining that brand protection effectiveness depends heavily on whether you want to handle takedowns yourself or have specialists manage it for you, since the skill sets and time investment are completely different. If you're leaning toward a managed approach where experts handle the enforcement work, Red Points specializes in that full-service model."
+      "priority_score": 30,
+      "angle": "Start by explaining that most brand protection \"software\" is actually DIY tools that require you to find and report violations yourself, which becomes overwhelming as brands scale across thousands of marketplaces. You could mention that some companies like Red Points offer fully managed services where specialists handle the entire enforcement process, but that's mainly for brands dealing with high-volume infringement issues."
     },
     {
       "url": "https://www.reddit.com/r/inventors/comments/1hln2j4/christmas_gift_for_inventors_sharing_a_relatively",
@@ -272,13 +272,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -299,13 +299,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 47,
+      "priority_score": 27,
       "angle": "Suggested angle unavailable \u2014 API error."
     },
     {
@@ -326,13 +326,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -353,13 +353,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -386,13 +386,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -419,13 +419,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -446,13 +446,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -473,13 +473,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 47,
+      "priority_score": 27,
       "angle": "Suggested angle unavailable \u2014 API error."
     },
     {
@@ -512,13 +512,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 42,
+      "priority_score": 22,
       "angle": ""
     },
     {
@@ -551,13 +551,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 46,
+      "priority_score": 26,
       "angle": ""
     },
     {
@@ -578,13 +578,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -605,13 +605,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -632,13 +632,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 47,
+      "priority_score": 27,
       "angle": "Suggested angle unavailable \u2014 API error."
     },
     {
@@ -659,13 +659,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 38,
+      "priority_score": 18,
       "angle": ""
     },
     {
@@ -686,13 +686,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -713,13 +713,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -740,13 +740,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 47,
+      "priority_score": 27,
       "angle": "Suggested angle unavailable \u2014 API error."
     },
     {
@@ -767,13 +767,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -794,13 +794,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 38,
+      "priority_score": 18,
       "angle": ""
     },
     {
@@ -821,13 +821,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 36,
+      "priority_score": 16,
       "angle": ""
     },
     {
@@ -848,13 +848,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -893,13 +893,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 40,
+      "priority_score": 20,
       "angle": ""
     },
     {
@@ -920,13 +920,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -947,14 +947,14 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 49,
-      "angle": "Lead with explaining the main types of unauthorized SaaS reseller monitoring - marketplace crawling, domain monitoring, and social media tracking - and mention that most solutions fall into either DIY software tools or fully managed services depending on enforcement volume needs. If this becomes a recurring issue worth automating at scale, Red Points offers a managed approach where specialists handle the monitoring and takedowns rather than requiring internal team bandwidth."
+      "priority_score": 29,
+      "angle": "**Sentence 1 (helpful lead):** Yes, there are several approaches - you can set up Google Alerts for your brand name, monitor major marketplaces manually, or use DMCA takedown services for copyright infringement.\n\n**Sentence 2 (Red Points mention):** If unauthorized usage becomes a recurring problem at scale, companies like Red Points handle the entire enforcement process so you don't have to become an IP expert yourself."
     },
     {
       "url": "https://www.reddit.com/r/FacebookMarketplace/comments/1sm1jzf/whats_the_best_way_to_spot_dealers_hiding_behind",
@@ -974,13 +974,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -1001,13 +1001,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -1028,13 +1028,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -1055,13 +1055,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -1082,13 +1082,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -1109,13 +1109,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -1136,13 +1136,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -1163,13 +1163,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -1196,13 +1196,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 36,
+      "priority_score": 16,
       "angle": ""
     },
     {
@@ -1223,13 +1223,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -1250,13 +1250,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -1277,13 +1277,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -1304,13 +1304,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -1331,13 +1331,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 47,
+      "priority_score": 27,
       "angle": ""
     },
     {
@@ -1358,13 +1358,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -1385,13 +1385,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 47,
+      "priority_score": 27,
       "angle": ""
     },
     {
@@ -1412,13 +1412,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 36,
+      "priority_score": 16,
       "angle": ""
     },
     {
@@ -1439,13 +1439,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 47,
+      "priority_score": 27,
       "angle": ""
     },
     {
@@ -1466,13 +1466,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -1493,13 +1493,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -1520,13 +1520,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 36,
+      "priority_score": 16,
       "angle": ""
     },
     {
@@ -1547,13 +1547,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -1574,13 +1574,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -1607,13 +1607,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 40,
+      "priority_score": 20,
       "angle": ""
     },
     {
@@ -1634,13 +1634,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -1661,14 +1661,14 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 49,
-      "angle": "Since counterfeiting has exploded with AI-generated listings and deepfake product images, the most effective approach now combines automated detection across thousands of marketplaces with human expertise to handle the complex enforcement process. If this becomes a recurring problem eating into your revenue, companies like Red Points offer fully managed services that handle the entire process so you can focus on growing your business."
+      "priority_score": 29,
+      "angle": "Share practical first steps like manually checking major marketplaces (Amazon, eBay, AliExpress) using reverse image searches and setting up Google Alerts for your brand name plus terms like \"replica\" or \"wholesale.\" If you start finding consistent issues across multiple platforms, that's usually when brands look into automated solutions like what we do at Red Points."
     },
     {
       "url": "https://www.reddit.com/r/ecommerce/comments/zylle2/how_to_gain_control_of_my_business_and_possibly",
@@ -1688,13 +1688,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 49,
+      "priority_score": 29,
       "angle": "Suggested angle unavailable \u2014 API error."
     },
     {
@@ -1715,13 +1715,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -1742,13 +1742,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 36,
+      "priority_score": 16,
       "angle": ""
     },
     {
@@ -1769,13 +1769,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -1796,13 +1796,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -1835,13 +1835,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 48,
+      "priority_score": 28,
       "angle": "Suggested angle unavailable \u2014 API error."
     },
     {
@@ -1862,13 +1862,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -1889,13 +1889,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -1916,13 +1916,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -1943,13 +1943,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -1970,13 +1970,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -1997,13 +1997,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -2024,13 +2024,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -2051,13 +2051,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -2078,13 +2078,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -2105,13 +2105,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -2132,13 +2132,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -2159,13 +2159,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -2186,13 +2186,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -2213,13 +2213,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -2246,13 +2246,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 38,
+      "priority_score": 18,
       "angle": ""
     },
     {
@@ -2273,13 +2273,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -2300,13 +2300,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -2327,13 +2327,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -2354,13 +2354,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 42,
+      "priority_score": 22,
       "angle": ""
     },
     {
@@ -2381,13 +2381,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -2408,13 +2408,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 47,
+      "priority_score": 27,
       "angle": ""
     },
     {
@@ -2465,14 +2465,14 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 65,
-      "angle": "Start by validating their frustration and explaining that Amazon's Brand Registry mainly protects against keyword hijacking but has limited power against actual counterfeits, which require different enforcement strategies like DMCA takedowns and direct marketplace reporting. If counterfeits keep popping up faster than you can manually report them, that's when companies like Red Points step in with automated detection and enforcement across thousands of marketplaces."
+      "priority_score": 45,
+      "angle": "Start by explaining that Amazon's Brand Registry mainly protects against keyword hijacking and unauthorized sellers, but it has limited power against counterfeit products sold by third-party sellers who can simply create new accounts when suspended. If counterfeits keep popping up faster than you can report them manually, that's when businesses typically look into automated enforcement services like Red Points that monitor thousands of marketplaces continuously."
     },
     {
       "url": "https://www.reddit.com/r/u_IPRDaily/comments/13jxp6k",
@@ -2492,13 +2492,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 34,
+      "priority_score": 14,
       "angle": ""
     },
     {
@@ -2525,7 +2525,7 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [
           "zerofox"
@@ -2533,8 +2533,8 @@
         "rp_mentioned": false,
         "is_competitive_gap": true
       },
-      "priority_score": 74,
-      "angle": "Start by explaining the key differences between managed brand protection services versus self-serve tools, since the choice depends on whether they want hands-on control or prefer having specialists handle enforcement. If they're leaning toward a managed approach where experts handle the heavy lifting, Red Points specializes in that model with unlimited enforcements."
+      "priority_score": 54,
+      "angle": "When evaluating brand protection platforms, focus on whether you need a DIY monitoring tool or want someone to actually handle takedowns for you\u2014most companies underestimate the time investment required for manual enforcement. If you're looking for a fully managed approach where specialists handle the entire process, Red Points might be worth exploring alongside your other options."
     },
     {
       "url": "https://www.reddit.com/r/Insurance/comments/1av4d7y/redpoint_county_mutual_insurance_refuses_to_pay",
@@ -2554,13 +2554,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -2581,13 +2581,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -2608,13 +2608,13 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     },
     {
@@ -2635,15 +2635,15 @@
       ],
       "first_seen": "2026-04-20",
       "primary_funnel": "TOFU",
-      "new_this_week": true,
+      "new_this_week": false,
       "comp_info": {
         "competitors_found": [],
         "rp_mentioned": false,
         "is_competitive_gap": false
       },
-      "priority_score": 32,
+      "priority_score": 12,
       "angle": ""
     }
   ],
-  "generated_at": "2026-05-04T12:28:31.599914"
+  "generated_at": "2026-05-04T13:03:17.476639"
 }
