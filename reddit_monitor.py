@@ -818,8 +818,8 @@ def main():
         f.write(html)
     log.info("index.html written for GitHub Pages")
 
-    # ── Step 9: Send Slack alert ──────────────────────────────────────────────
-    send_slack_alert(threads, actioned_urls, week_end)
+    # ── Step 9: Send Slack alert ─────
+    # send_slack_alert(threads, actioned_urls, week_end)
 
     log.info("=== Done ===")
 
