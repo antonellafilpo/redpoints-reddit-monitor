@@ -177,7 +177,7 @@ def fetch_omnia_prompts() -> list[dict]:
                 # Enrich each prompt with its parent topic ID
                 for p in batch:
                     p["topicId"] = topic_id
-                  log.info(f"  Prompt fields: {list(p.keys())}")
+                log.info(f"  Prompt fields: {list(p.keys())}")
                 prompts.extend(batch)
                 total = data.get("pagination", {}).get("totalItems", 0)
                 if page * 100 >= total or not batch:
