@@ -122,34 +122,71 @@ def save_week_data(week_start: str, data: dict):
 # ---------------------------------------------------------------------------
 
 def fetch_omnia_prompts() -> list[dict]:
-    """Fetches all monitored prompts for the brand with their topic metadata."""
+    """
+    Fetches all monitored prompts for the brand by going through topics.
+    Omnia API structure: brand → topics → prompts (no direct brand/prompts endpoint).
+    Each prompt is enriched with its parent topic ID for TOFU/MOFU/BOFU tagging.
+    """
     if not OMNIA_TOKEN:
         log.warning("OMNIA_TOKEN not set")
         return []
 
-    prompts = []
+    headers = {"Authorization": f"Bearer {OMNIA_TOKEN}"}
+
+    # ── Step 1: Fetch all topics for the brand ────────────────────────────────
+    topics = []
     page = 1
     while True:
         try:
             resp = requests.get(
-                f"https://app.useomnia.com/api/v1/brands/{OMNIA_BRAND_ID}/prompts",
-                headers={"Authorization": f"Bearer {OMNIA_TOKEN}"},
+                f"https://app.useomnia.com/api/v1/brands/{OMNIA_BRAND_ID}/topics",
+                headers=headers,
                 params={"page": page, "pageSize": 100},
                 timeout=30,
             )
             resp.raise_for_status()
             data = resp.json()
-            batch = data.get("data", {}).get("prompts", [])
-            prompts.extend(batch)
+            batch = data.get("data", {}).get("topics", [])
+            topics.extend(batch)
             total = data.get("pagination", {}).get("totalItems", 0)
-            if page * 100 >= total:
+            if page * 100 >= total or not batch:
                 break
             page += 1
         except Exception as e:
-            log.error(f"Omnia prompts fetch failed (page {page}): {e}")
+            log.error(f"Omnia topics fetch failed (page {page}): {e}")
             break
 
-    log.info(f"Omnia: {len(prompts)} prompts fetched")
+    log.info(f"Omnia: {len(topics)} topics fetched")
+
+    # ── Step 2: Fetch prompts for each topic ──────────────────────────────────
+    prompts = []
+    for topic in topics:
+        topic_id = topic.get("id", "")
+        page = 1
+        while True:
+            try:
+                resp = requests.get(
+                    f"https://app.useomnia.com/api/v1/topics/{topic_id}/prompts",
+                    headers=headers,
+                    params={"page": page, "pageSize": 100},
+                    timeout=30,
+                )
+                resp.raise_for_status()
+                data = resp.json()
+                batch = data.get("data", {}).get("prompts", [])
+                # Enrich each prompt with its parent topic ID
+                for p in batch:
+                    p["topicId"] = topic_id
+                prompts.extend(batch)
+                total = data.get("pagination", {}).get("totalItems", 0)
+                if page * 100 >= total or not batch:
+                    break
+                page += 1
+            except Exception as e:
+                log.warning(f"  Omnia prompts fetch failed for topic {topic_id} (page {page}): {e}")
+                break
+
+    log.info(f"Omnia: {len(prompts)} prompts fetched across {len(topics)} topics")
     return prompts
 
 
@@ -818,8 +855,8 @@ def main():
         f.write(html)
     log.info("index.html written for GitHub Pages")
 
-    # ── Step 9: Send Slack alert ─────
-    # send_slack_alert(threads, actioned_urls, week_end)
+    # ── Step 9: Send Slack alert ──────────────────────────────────────────────
+    send_slack_alert(threads, actioned_urls, week_end)
 
     log.info("=== Done ===")
 
