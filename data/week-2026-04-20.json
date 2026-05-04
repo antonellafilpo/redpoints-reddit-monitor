@@ -1,0 +1,2649 @@
+{
+  "week_start": "2026-04-20",
+  "week_end": "2026-04-26",
+  "threads": [
+    {
+      "url": "https://www.reddit.com/r/FulfillmentByAmazon/comments/lvhmxq/compatible_with_products_countering_counterfeit",
+      "subreddit": "FulfillmentByAmazon",
+      "thread_title": "",
+      "total_citations": 14,
+      "prompts": [
+        {
+          "id": "019a9ce0-eac4-70aa-a876-346351697d69",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "019a9ce0-eac4-70aa-a876-2900b1df8ee6"
+        },
+        {
+          "id": "019dbfa8-4247-747e-8192-887b4edce67b",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "cd604a39-dba2-4dbb-90ad-1353398f9000"
+        },
+        {
+          "id": "019dbfa8-20b5-74d1-b9f8-310cb4277b0a",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "cd604a39-dba2-4dbb-90ad-1353398f9000"
+        },
+        {
+          "id": "019dbfa8-051d-72ec-a976-58c87b0ce23f",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "cd604a39-dba2-4dbb-90ad-1353398f9000"
+        },
+        {
+          "id": "fdf7cb88-1b36-43f9-9eb9-b8dbb0d4298c",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "cd604a39-dba2-4dbb-90ad-1353398f9000"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 50,
+      "angle": "Since Amazon's Brand Registry catches obvious fakes but struggles with \"compatible with\" listings that blur the line, focus on documenting specific trademark violations in product titles and images rather than just reporting general counterfeiting. If you're seeing this across multiple products regularly, companies like Red Points handle the ongoing monitoring and enforcement so you can focus on growing your business."
+    },
+    {
+      "url": "https://www.reddit.com/r/u_IPRDaily/comments/vcuu52",
+      "subreddit": "u_IPRDaily",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "68e9b127-a5e4-4665-946c-c894cbe78fb7",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "fc8c809c-e566-403e-ac5b-062c2af9725b"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/u_AretoInc/comments/1d9usvo",
+      "subreddit": "u_AretoInc",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "68e9b127-a5e4-4665-946c-c894cbe78fb7",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "fc8c809c-e566-403e-ac5b-062c2af9725b"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/FulfillmentByAmazon/comments/1r883wb/best_brand_protection_software_according_to",
+      "subreddit": "FulfillmentByAmazon",
+      "thread_title": "",
+      "total_citations": 39,
+      "prompts": [
+        {
+          "id": "d3e7530a-6a5d-4709-afc0-b63644771f65",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "fc8c809c-e566-403e-ac5b-062c2af9725b"
+        },
+        {
+          "id": "9402c055-eeab-445f-8531-f2448fb8c479",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "4cbd4e9e-52d4-426c-8ba5-d39ac333c6bd"
+        },
+        {
+          "id": "8fa05cae-ee01-4a26-964a-704d301b7aa8",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "4cbd4e9e-52d4-426c-8ba5-d39ac333c6bd"
+        },
+        {
+          "id": "21320a03-93d6-430b-b593-9439ae680875",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "4cbd4e9e-52d4-426c-8ba5-d39ac333c6bd"
+        },
+        {
+          "id": "4c4bd89a-5773-4a74-97a8-4649751d1393",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "3c462c6b-15a6-4fda-99c7-eb4db849dd12"
+        },
+        {
+          "id": "047659f2-8e7b-49f7-b912-8824e645fcd8",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "3c462c6b-15a6-4fda-99c7-eb4db849dd12"
+        },
+        {
+          "id": "1ce30272-7d5a-4d32-96ed-d7730bda1f07",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "3c462c6b-15a6-4fda-99c7-eb4db849dd12"
+        },
+        {
+          "id": "9ef9399c-b45a-4294-86eb-0a19d4d5192d",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "3c462c6b-15a6-4fda-99c7-eb4db849dd12"
+        },
+        {
+          "id": "019dbfa0-aa36-72dd-98b4-be6b82a9f6c2",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        },
+        {
+          "id": "1b782b45-4a77-4a09-b347-0506a5258438",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        },
+        {
+          "id": "dec38acb-fe33-40b8-899b-486e809cc1ed",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        },
+        {
+          "id": "2e0d3d1e-4d16-4de5-86f6-ae1210d3a82b",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "f85c62dc-743a-4ff9-87d3-03ed8bf9fa8c"
+        },
+        {
+          "id": "019dbfa6-1d1c-7374-8116-ff453a3b57d1",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "2ed520c0-4c55-4443-9807-58d8acaa6196"
+        },
+        {
+          "id": "019dbfa5-e2b8-74a8-92fd-0e377bc43cd5",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "2ed520c0-4c55-4443-9807-58d8acaa6196"
+        },
+        {
+          "id": "019dbfa7-c96e-708b-9276-a291e3a231cc",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "b049770f-c427-4dc7-823a-169efed51c0c"
+        },
+        {
+          "id": "a59b783b-f413-4aca-85c1-adf535b94f84",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "b049770f-c427-4dc7-823a-169efed51c0c"
+        },
+        {
+          "id": "ea5a74e8-a183-42ea-975c-76059d8efe83",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "b049770f-c427-4dc7-823a-169efed51c0c"
+        },
+        {
+          "id": "ca94cf8b-d26b-4dd8-b384-3f8c1db1e15c",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "cd604a39-dba2-4dbb-90ad-1353398f9000"
+        },
+        {
+          "id": "ec1232d5-2197-46c3-a0e0-581bd3c58eef",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "d37f3a38-3e0c-457f-896a-b8cf33e68431"
+        },
+        {
+          "id": "a26e64a4-bbac-49fb-b572-f039c698b43b",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "d37f3a38-3e0c-457f-896a-b8cf33e68431"
+        },
+        {
+          "id": "019a9cdb-9169-7109-aa8e-4626f11fe6e6",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "019a9cdb-9169-7109-aa8e-3171bd8b956b"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 50,
+      "angle": "Start by explaining that brand protection effectiveness depends heavily on whether you want to handle takedowns yourself or have specialists manage it for you, since the skill sets and time investment are completely different. If you're leaning toward a managed approach where experts handle the enforcement work, Red Points specializes in that full-service model."
+    },
+    {
+      "url": "https://www.reddit.com/r/inventors/comments/1hln2j4/christmas_gift_for_inventors_sharing_a_relatively",
+      "subreddit": "inventors",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "fc068f84-f718-4958-a48c-f9a11d977f9f",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "cbf82e1d-dfdf-480b-8d91-a399efdb83bb"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/SaaS/comments/1rd50y4/15_computer_vision_development_companies",
+      "subreddit": "SaaS",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "37adfb98-efe4-4c70-9e6f-c29cc577a6f6",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "cf250b81-b9ca-4f5d-8ee7-f704f311c944"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 47,
+      "angle": "Suggested angle unavailable \u2014 API error."
+    },
+    {
+      "url": "https://www.reddit.com/r/cybersecurity/comments/10vrb63/cybersecurity_enumeration_passive_information",
+      "subreddit": "cybersecurity",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "a57c9764-ce55-4fe1-883f-0ec59d1750c3",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "b0a04654-e393-405e-812d-3bd64f280b1d"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/TikTokshop/comments/1omx6hf/deeply_disappointed_in_tiktok_shops_ipp",
+      "subreddit": "TikTokshop",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "48c1487e-9d4a-4a35-b741-7d2f7d9cd61c",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "fc9da008-048a-466f-ae84-501cc544a273"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/FacebookMarketplace/comments/1muxu95/real_designer_items_being_flagged_counterfeit",
+      "subreddit": "FacebookMarketplace",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "eab46fda-c0ea-44ee-ac49-c98def0c11df",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "fc9da008-048a-466f-ae84-501cc544a273"
+        },
+        {
+          "id": "109562aa-e4f2-4545-a5d5-0330a473507c",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/FacebookMarketplace/comments/1qn8da5/ai_flagging_genuine_items_as_counterfeit",
+      "subreddit": "FacebookMarketplace",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "eab46fda-c0ea-44ee-ac49-c98def0c11df",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "fc9da008-048a-466f-ae84-501cc544a273"
+        },
+        {
+          "id": "109562aa-e4f2-4545-a5d5-0330a473507c",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/AIVOEdge/comments/1rujxf7/best_ai_search_visibility_tools_2026",
+      "subreddit": "AIVOEdge",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "d245f597-1713-46c0-9710-c3a94202b4e0",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "861e141e-4dda-49f4-bc99-6dbf086a94f7"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/smallbusiness/comments/ih5oce/thread_the_best_customer_support_tools_for_small",
+      "subreddit": "smallbusiness",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "b1ba4eb5-0092-4b09-81f1-ea0e383ca2af",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "3c462c6b-15a6-4fda-99c7-eb4db849dd12"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 47,
+      "angle": "Suggested angle unavailable \u2014 API error."
+    },
+    {
+      "url": "https://www.reddit.com/r/facebook/comments/1n9w3x7/phishing_attempts_using_our_facebook_brand_how_do",
+      "subreddit": "facebook",
+      "thread_title": "",
+      "total_citations": 6,
+      "prompts": [
+        {
+          "id": "019dbfa1-206f-770d-b456-8fadd8c9319c",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "63b51e32-f47e-4a1a-abfb-029e85fb07f7"
+        },
+        {
+          "id": "019dbfa0-e347-73be-9f88-114dea4377f6",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "63b51e32-f47e-4a1a-abfb-029e85fb07f7"
+        },
+        {
+          "id": "ff7d754e-6716-4e20-b916-8ad6463d5f65",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "63b51e32-f47e-4a1a-abfb-029e85fb07f7"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 42,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/PPC/comments/1r6rkjz/scam_ads_impersonating_brands_whats_your_playbook",
+      "subreddit": "PPC",
+      "thread_title": "",
+      "total_citations": 8,
+      "prompts": [
+        {
+          "id": "019dbfa1-206f-770d-b456-8fadd8c9319c",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "63b51e32-f47e-4a1a-abfb-029e85fb07f7"
+        },
+        {
+          "id": "019dbfa0-e347-73be-9f88-114dea4377f6",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "63b51e32-f47e-4a1a-abfb-029e85fb07f7"
+        },
+        {
+          "id": "ff7d754e-6716-4e20-b916-8ad6463d5f65",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "63b51e32-f47e-4a1a-abfb-029e85fb07f7"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 46,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/socialmedia/comments/n1pvwa/someones_impersonating_my_brand_on_facebook_what",
+      "subreddit": "socialmedia",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa1-206f-770d-b456-8fadd8c9319c",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "63b51e32-f47e-4a1a-abfb-029e85fb07f7"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/FacebookAds/comments/1kl3q0n/someone_is_faking_my_brand_on_facebook_advice",
+      "subreddit": "FacebookAds",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa1-206f-770d-b456-8fadd8c9319c",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "63b51e32-f47e-4a1a-abfb-029e85fb07f7"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/smallbusiness/comments/1okwgf1/my_mom_saw_the_comments_under_our_facebook_ad_and",
+      "subreddit": "smallbusiness",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa1-206f-770d-b456-8fadd8c9319c",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "63b51e32-f47e-4a1a-abfb-029e85fb07f7"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 47,
+      "angle": "Suggested angle unavailable \u2014 API error."
+    },
+    {
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1ctfs0u/taking_down_a_malicious_spoof_website",
+      "subreddit": "cybersecurity",
+      "thread_title": "",
+      "total_citations": 4,
+      "prompts": [
+        {
+          "id": "019dbfa0-fd5f-76ab-bb71-9a332fb82481",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "63b51e32-f47e-4a1a-abfb-029e85fb07f7"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 38,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/webdev/comments/1hswxvq/my_site_has_been_poorly_cloned_by_a_scammer_how",
+      "subreddit": "webdev",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa0-fd5f-76ab-bb71-9a332fb82481",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "63b51e32-f47e-4a1a-abfb-029e85fb07f7"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/facebook/comments/1n9w3x7",
+      "subreddit": "facebook",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa0-e347-73be-9f88-114dea4377f6",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "63b51e32-f47e-4a1a-abfb-029e85fb07f7"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/ecommerce/comments/pjxt1r/someone_using_logo_and_impersonating_on_instagram",
+      "subreddit": "ecommerce",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa0-ca23-75fd-be8c-d788ef9b41b1",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "63b51e32-f47e-4a1a-abfb-029e85fb07f7"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 47,
+      "angle": "Suggested angle unavailable \u2014 API error."
+    },
+    {
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1r79eld/brand_protection",
+      "subreddit": "cybersecurity",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "07edb4d7-7aab-4eca-8d93-1618cca56055",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "63b51e32-f47e-4a1a-abfb-029e85fb07f7"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/GrowthHacking/comments/1r7yigg/best_ai_content_moderation_tools_for_detecting",
+      "subreddit": "GrowthHacking",
+      "thread_title": "",
+      "total_citations": 4,
+      "prompts": [
+        {
+          "id": "aa664c51-cf7c-4fbd-8530-d255e6f5a4f9",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "63b51e32-f47e-4a1a-abfb-029e85fb07f7"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 38,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/GeminiAI/comments/1qjl54i/best_ai_image_detector_tools_to_trust_in_2026",
+      "subreddit": "GeminiAI",
+      "thread_title": "",
+      "total_citations": 3,
+      "prompts": [
+        {
+          "id": "aa664c51-cf7c-4fbd-8530-d255e6f5a4f9",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "63b51e32-f47e-4a1a-abfb-029e85fb07f7"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 36,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/bestaihumanizers/comments/1ii2mq9/do_ai_detection_tools_actually_work",
+      "subreddit": "bestaihumanizers",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "aa664c51-cf7c-4fbd-8530-d255e6f5a4f9",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "63b51e32-f47e-4a1a-abfb-029e85fb07f7"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/SaaSy/comments/1sgs60z/has_anyone_here_actually_gotten_real_value_from",
+      "subreddit": "SaaSy",
+      "thread_title": "",
+      "total_citations": 5,
+      "prompts": [
+        {
+          "id": "019dbfa0-aa36-72dd-98b4-be6b82a9f6c2",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        },
+        {
+          "id": "019dbfa0-60bd-73ff-b9df-b3ddfd0b5d8f",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        },
+        {
+          "id": "d16d9911-bd81-4e47-b15d-5f2a05cac8c2",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "dc2f691a-2d74-4996-9982-48f25697670e"
+        },
+        {
+          "id": "019dbfa5-e2b8-74a8-92fd-0e377bc43cd5",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "2ed520c0-4c55-4443-9807-58d8acaa6196"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 40,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/AsianBeauty/comments/fa7mbt/best_methods_to_deducing_if_a_product_is",
+      "subreddit": "AsianBeauty",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa0-29c4-77ba-ae85-664e0d1ae54f",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/SaaS/comments/1oof92e/is_there_any_saas_that_monitors_unauthorized",
+      "subreddit": "SaaS",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "019dbfa0-0eeb-7579-8687-8529a3740b0f",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 49,
+      "angle": "Lead with explaining the main types of unauthorized SaaS reseller monitoring - marketplace crawling, domain monitoring, and social media tracking - and mention that most solutions fall into either DIY software tools or fully managed services depending on enforcement volume needs. If this becomes a recurring issue worth automating at scale, Red Points offers a managed approach where specialists handle the monitoring and takedowns rather than requiring internal team bandwidth."
+    },
+    {
+      "url": "https://www.reddit.com/r/FacebookMarketplace/comments/1sm1jzf/whats_the_best_way_to_spot_dealers_hiding_behind",
+      "subreddit": "FacebookMarketplace",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa0-0eeb-7579-8687-8529a3740b0f",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/FacebookMarketplace/comments/1dumxfp/marketplace_swamped_by_fake_sellers",
+      "subreddit": "FacebookMarketplace",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa0-0eeb-7579-8687-8529a3740b0f",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/LifeProTips/comments/1hhksf1/lpt_there_are_many_fake_profiles_selling_things",
+      "subreddit": "LifeProTips",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa0-0eeb-7579-8687-8529a3740b0f",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/regina/comments/1d3ncii/influx_of_scam_listings_on_facebook_marketplace",
+      "subreddit": "regina",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa0-0eeb-7579-8687-8529a3740b0f",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/FacebookMarketplace/comments/1r3tyif/how_do_you_spot_a_scam_on_facebook_marketplace",
+      "subreddit": "FacebookMarketplace",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa0-0eeb-7579-8687-8529a3740b0f",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/Scams/comments/1rm0p3c/us_beware_if_you_are_selling_items_on_fb",
+      "subreddit": "Scams",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa0-0eeb-7579-8687-8529a3740b0f",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/FulfillmentByAmazon/comments/1hzr0q6",
+      "subreddit": "FulfillmentByAmazon",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "019dbf9f-f50d-7365-ad96-7fcde5e7290e",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/FulfillmentByAmazon/comments/1nolrwv/anyone_else_feeling_stuck_with_amazons_brand",
+      "subreddit": "FulfillmentByAmazon",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbf9f-f50d-7365-ad96-7fcde5e7290e",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/YouShouldKnow/comments/ifytxk/ysk_that_amazon_has_a_serious_problem_with",
+      "subreddit": "YouShouldKnow",
+      "thread_title": "",
+      "total_citations": 3,
+      "prompts": [
+        {
+          "id": "019dbf9f-f50d-7365-ad96-7fcde5e7290e",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        },
+        {
+          "id": "019dbf9f-bd45-766a-b8f9-e723771bcf70",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 36,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/AmazonFBA/comments/1r4gdvu/issues_with_fakesknockoffs_of_our_brand_popping_up",
+      "subreddit": "AmazonFBA",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbf9f-f50d-7365-ad96-7fcde5e7290e",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/FulfillmentByAmazon/comments/1bpv15n/i_need_advice_product_authenticity_complaint",
+      "subreddit": "FulfillmentByAmazon",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "019dbf9f-db17-73e0-b5ff-a8ceb0d9a1b6",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/Bricklink/comments/1iib5ht/seller_sent_wrong_item_then_sent_real_one_but",
+      "subreddit": "Bricklink",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbf9f-db17-73e0-b5ff-a8ceb0d9a1b6",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1p6izxv/psa_i_got_scammed_by_chatly_pretending_to_be",
+      "subreddit": "ClaudeAI",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbf9f-db17-73e0-b5ff-a8ceb0d9a1b6",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/k89np4/chinese_manufacturer_did_not_double_check_my",
+      "subreddit": "Entrepreneur",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbf9f-db17-73e0-b5ff-a8ceb0d9a1b6",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 47,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/eBaySellers/comments/1j0kha8/buyer_return_request_wants_a_refund_claims_my",
+      "subreddit": "eBaySellers",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbf9f-db17-73e0-b5ff-a8ceb0d9a1b6",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/Etsy/comments/17qvs29/buyer_photoshopped_their_picture_to_get_a_free",
+      "subreddit": "Etsy",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbf9f-db17-73e0-b5ff-a8ceb0d9a1b6",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 47,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/FulfillmentByAmazon/comments/1oesvjg/40_sellers_removed_from_listing_because_the_brand",
+      "subreddit": "FulfillmentByAmazon",
+      "thread_title": "",
+      "total_citations": 3,
+      "prompts": [
+        {
+          "id": "019dbf9f-bd45-766a-b8f9-e723771bcf70",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 36,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/6mjvmm/i_launched_an_amazon_product_and_did_3300_in",
+      "subreddit": "Entrepreneur",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbf9f-bd45-766a-b8f9-e723771bcf70",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 47,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/EtsySellers/comments/1f8yeyo/temu_removed_a_copy_of_my_listing_in_just_a_few",
+      "subreddit": "EtsySellers",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "019dbf9f-a0c3-73e8-a338-b548ba47d984",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/EtsySellers/comments/1i0bgrq/my_entire_shop_has_been_stolen_and_is_for_sale_on",
+      "subreddit": "EtsySellers",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "019dbf9f-a0c3-73e8-a338-b548ba47d984",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/EtsySellers/comments/1nuhgp7/someone_is_selling_copies_of_my_products_on",
+      "subreddit": "EtsySellers",
+      "thread_title": "",
+      "total_citations": 3,
+      "prompts": [
+        {
+          "id": "019dbf9f-8693-70db-be61-227331cade61",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 36,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/AmazonSeller/comments/vhigs8/need_help_with_someone_selling_a_counterfeit",
+      "subreddit": "AmazonSeller",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "019dbf9f-8693-70db-be61-227331cade61",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/Amazonsellercentral/comments/1pl48y5/what_can_we_do_when_counterfeit_products_under",
+      "subreddit": "Amazonsellercentral",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbf9f-8693-70db-be61-227331cade61",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/FulfillmentByAmazon/comments/1jiox28/help_with_brand_registry_ongoing_unauthorized",
+      "subreddit": "FulfillmentByAmazon",
+      "thread_title": "",
+      "total_citations": 5,
+      "prompts": [
+        {
+          "id": "019dbf9f-8693-70db-be61-227331cade61",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        },
+        {
+          "id": "019dbfa1-9dd9-713e-9af4-daba0615e9f5",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "dc2f691a-2d74-4996-9982-48f25697670e"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 40,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/alphaandbetausers/comments/1r4hkxs/looking_for_early_users_ai_tool_to_detect_scams",
+      "subreddit": "alphaandbetausers",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "109562aa-e4f2-4545-a5d5-0330a473507c",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/4wxdjf/how_to_automatically_identify_counterfeit_goods",
+      "subreddit": "Entrepreneur",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "649f3d2e-6e6f-4756-9d8b-0911d3af5a10",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "a13b271a-2a35-484b-b106-1bc408aebbc4"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 49,
+      "angle": "Since counterfeiting has exploded with AI-generated listings and deepfake product images, the most effective approach now combines automated detection across thousands of marketplaces with human expertise to handle the complex enforcement process. If this becomes a recurring problem eating into your revenue, companies like Red Points offer fully managed services that handle the entire process so you can focus on growing your business."
+    },
+    {
+      "url": "https://www.reddit.com/r/ecommerce/comments/zylle2/how_to_gain_control_of_my_business_and_possibly",
+      "subreddit": "ecommerce",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "019dbfa2-09f8-745d-99d5-083819ebadfc",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "dc2f691a-2d74-4996-9982-48f25697670e"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 49,
+      "angle": "Suggested angle unavailable \u2014 API error."
+    },
+    {
+      "url": "https://www.reddit.com/r/SkincareAddiction/comments/3517rn/is_it_ok_to_buy_paulas_choice_products_on_amazon",
+      "subreddit": "SkincareAddiction",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa2-09f8-745d-99d5-083819ebadfc",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "dc2f691a-2d74-4996-9982-48f25697670e"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/OmegaWatches/comments/1lvqyte/whats_going_on_with_the_omega_grey_market_prices",
+      "subreddit": "OmegaWatches",
+      "thread_title": "",
+      "total_citations": 3,
+      "prompts": [
+        {
+          "id": "019dbfa1-f0a7-7368-8369-f952ad064d41",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "dc2f691a-2d74-4996-9982-48f25697670e"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 36,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/selfpublish/comments/1jpvvhl/kdp_expanded_distribution_good_or_fake",
+      "subreddit": "selfpublish",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa1-d260-770e-982d-ae3d924a6362",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "dc2f691a-2d74-4996-9982-48f25697670e"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/FulfillmentByAmazon/comments/1m9oqdf/removing_unauthorised_sellers_amazon_us",
+      "subreddit": "FulfillmentByAmazon",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "019dbfa1-b6c0-74ed-8c5a-025d3b47cf85",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "dc2f691a-2d74-4996-9982-48f25697670e"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/AmazonSeller/comments/120xvuf/someone_is_selling_my_product_on_amazon_without",
+      "subreddit": "AmazonSeller",
+      "thread_title": "",
+      "total_citations": 9,
+      "prompts": [
+        {
+          "id": "019dbfa1-b6c0-74ed-8c5a-025d3b47cf85",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "dc2f691a-2d74-4996-9982-48f25697670e"
+        },
+        {
+          "id": "019dbfa1-9dd9-713e-9af4-daba0615e9f5",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "dc2f691a-2d74-4996-9982-48f25697670e"
+        },
+        {
+          "id": "019dbfa1-849c-760b-b1de-855e1ff6b06b",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "dc2f691a-2d74-4996-9982-48f25697670e"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 48,
+      "angle": "Suggested angle unavailable \u2014 API error."
+    },
+    {
+      "url": "https://www.reddit.com/r/AmazonFBATips/comments/17j2noi/dealing_with_unauthorized_sellers_on_my_private",
+      "subreddit": "AmazonFBATips",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa1-b6c0-74ed-8c5a-025d3b47cf85",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "dc2f691a-2d74-4996-9982-48f25697670e"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/personalfinance/comments/5kjzgc/beware_of_just_launched_3rd_party_seller_bots_on",
+      "subreddit": "personalfinance",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa1-b6c0-74ed-8c5a-025d3b47cf85",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "dc2f691a-2d74-4996-9982-48f25697670e"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/FulfillmentByAmazon/comments/ptve02/help_getting_my_brand_gated",
+      "subreddit": "FulfillmentByAmazon",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa1-9dd9-713e-9af4-daba0615e9f5",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "dc2f691a-2d74-4996-9982-48f25697670e"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/AmazonFBATips/comments/1niekpo/how_do_brands_stay_alert_to_unauthorized_sellers",
+      "subreddit": "AmazonFBATips",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "81cfd996-a2c6-4949-b449-bf8d5d813310",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "dc2f691a-2d74-4996-9982-48f25697670e"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/DigitalWizards/comments/1ki6bjx",
+      "subreddit": "DigitalWizards",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "2797c648-f6ae-441c-9caa-4882398a6d13",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "f85c62dc-743a-4ff9-87d3-03ed8bf9fa8c"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/u_actowiz/comments/14m02o9",
+      "subreddit": "u_actowiz",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "2797c648-f6ae-441c-9caa-4882398a6d13",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "f85c62dc-743a-4ff9-87d3-03ed8bf9fa8c"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/TRADEMARK/comments/1nnqzck/how_effective_is_your_ip_enforcement_setup_in",
+      "subreddit": "TRADEMARK",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "019dbfa6-73ae-704c-94cc-382f7b81e1e2",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "2ed520c0-4c55-4443-9807-58d8acaa6196"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/webdev/comments/naet6e/dmca_takedowns_are_basically_a_scam",
+      "subreddit": "webdev",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa6-5496-72ab-9060-29a0791a247d",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "2ed520c0-4c55-4443-9807-58d8acaa6196"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/dataengineering/comments/186zm6c/my_team_only_uses_excel_to_manage_all_of_our",
+      "subreddit": "dataengineering",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa6-1d1c-7374-8116-ff453a3b57d1",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "2ed520c0-4c55-4443-9807-58d8acaa6196"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/sysadmin/comments/6m9gm3/what_do_you_automate_for_every_day_tasks",
+      "subreddit": "sysadmin",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa2-7c76-7528-8359-9d3d0aa68468",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "2ed520c0-4c55-4443-9807-58d8acaa6196"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/COPYRIGHT/comments/uhgzqu/how_to_stopmanage_counterfeits",
+      "subreddit": "COPYRIGHT",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa2-6066-7371-92a2-ffb825148b80",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "2ed520c0-4c55-4443-9807-58d8acaa6196"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/PartneredYoutube/comments/1fjpkqv/looking_for_a_copyright_lawyer_bot_channels_are",
+      "subreddit": "PartneredYoutube",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "3aef2e6a-3a2f-49eb-911a-227d400b5056",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "2ed520c0-4c55-4443-9807-58d8acaa6196"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/Outlook/comments/1rve7xb/im_getting_insufferable_email_spam",
+      "subreddit": "Outlook",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "3aef2e6a-3a2f-49eb-911a-227d400b5056",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "2ed520c0-4c55-4443-9807-58d8acaa6196"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/modhelp/comments/ral6rd/dmca_takedown_automation",
+      "subreddit": "modhelp",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "8544659c-675e-4878-a57c-594c7c6aa192",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "2ed520c0-4c55-4443-9807-58d8acaa6196"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/u_bobloblawlobslaw/comments/1jgj985",
+      "subreddit": "u_bobloblawlobslaw",
+      "thread_title": "",
+      "total_citations": 4,
+      "prompts": [
+        {
+          "id": "31063a4b-84b1-4afe-b1e8-e7599b17007a",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "2ed520c0-4c55-4443-9807-58d8acaa6196"
+        },
+        {
+          "id": "019dbfa7-88a1-7438-86d6-461582aeee00",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "b049770f-c427-4dc7-823a-169efed51c0c"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 38,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/DigitalMarketing/comments/1gu1o06/whats_your_favorite_free_tool_for_managing_social",
+      "subreddit": "DigitalMarketing",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "a0504892-d6f8-4002-b4c3-3a7011d7d241",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "2ed520c0-4c55-4443-9807-58d8acaa6196"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/paralegal/comments/1fvfilg/trademark_monitoring_vendors",
+      "subreddit": "paralegal",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "e474f505-f3b2-4794-b97d-bde1652b7e2c",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "2ed520c0-4c55-4443-9807-58d8acaa6196"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/AskChina/comments/1qgw7ky/how_do_consumers_in_china_avoid_buying",
+      "subreddit": "AskChina",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "019dbfa6-cffa-7364-97b4-a288704d058f",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "d97621e2-ff3b-460f-850d-5ecb59db6776"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/FulfillmentByAmazon/comments/iv7ipv/alibaba_supplier_copied_my_product",
+      "subreddit": "FulfillmentByAmazon",
+      "thread_title": "",
+      "total_citations": 6,
+      "prompts": [
+        {
+          "id": "019dbfa6-b2a9-72c5-a3f6-c26fe2957809",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "d97621e2-ff3b-460f-850d-5ecb59db6776"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 42,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/Alibaba/comments/1lcpfzh/how_do_i_protect_my_product_idea_and_choose_the",
+      "subreddit": "Alibaba",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "019dbfa6-b2a9-72c5-a3f6-c26fe2957809",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "d97621e2-ff3b-460f-850d-5ecb59db6776"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/tw8092/how_to_make_sure_that_your_product_design_is_not",
+      "subreddit": "Entrepreneur",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa6-b2a9-72c5-a3f6-c26fe2957809",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "d97621e2-ff3b-460f-850d-5ecb59db6776"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 47,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/smallbusiness/comments/1nolk9d/anyone_else_feeling_stuck_with_amazons_brand",
+      "subreddit": "smallbusiness",
+      "thread_title": "",
+      "total_citations": 17,
+      "prompts": [
+        {
+          "id": "6bd26fb3-86a4-4a1e-be6e-a90e019da62f",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "d97621e2-ff3b-460f-850d-5ecb59db6776"
+        },
+        {
+          "id": "3664959c-bc0e-483e-a749-5f6ec7f6487b",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "d97621e2-ff3b-460f-850d-5ecb59db6776"
+        },
+        {
+          "id": "59e04e66-9bfb-4e4d-89a4-880a2dc17a56",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "b049770f-c427-4dc7-823a-169efed51c0c"
+        },
+        {
+          "id": "ea5a74e8-a183-42ea-975c-76059d8efe83",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "b049770f-c427-4dc7-823a-169efed51c0c"
+        },
+        {
+          "id": "019dbfa8-20b5-74d1-b9f8-310cb4277b0a",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "cd604a39-dba2-4dbb-90ad-1353398f9000"
+        },
+        {
+          "id": "ca94cf8b-d26b-4dd8-b384-3f8c1db1e15c",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "cd604a39-dba2-4dbb-90ad-1353398f9000"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 65,
+      "angle": "Start by validating their frustration and explaining that Amazon's Brand Registry mainly protects against keyword hijacking but has limited power against actual counterfeits, which require different enforcement strategies like DMCA takedowns and direct marketplace reporting. If counterfeits keep popping up faster than you can manually report them, that's when companies like Red Points step in with automated detection and enforcement across thousands of marketplaces."
+    },
+    {
+      "url": "https://www.reddit.com/r/u_IPRDaily/comments/13jxp6k",
+      "subreddit": "u_IPRDaily",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "418df08c-90d7-4ead-9fba-52b6809bbd3b",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "d97621e2-ff3b-460f-850d-5ecb59db6776"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 34,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/threatintel/comments/1hi0g5r/anyone_used_zerofox_or_beforeai",
+      "subreddit": "threatintel",
+      "thread_title": "",
+      "total_citations": 2,
+      "prompts": [
+        {
+          "id": "019dbfa7-a978-713f-ac71-a65dc3e55d03",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "b049770f-c427-4dc7-823a-169efed51c0c"
+        },
+        {
+          "id": "71610839-020c-47da-8442-76f8558f7203",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "d37f3a38-3e0c-457f-896a-b8cf33e68431"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [
+          "zerofox"
+        ],
+        "rp_mentioned": false,
+        "is_competitive_gap": true
+      },
+      "priority_score": 74,
+      "angle": "Start by explaining the key differences between managed brand protection services versus self-serve tools, since the choice depends on whether they want hands-on control or prefer having specialists handle enforcement. If they're leaning toward a managed approach where experts handle the heavy lifting, Red Points specializes in that model with unlimited enforcements."
+    },
+    {
+      "url": "https://www.reddit.com/r/Insurance/comments/1av4d7y/redpoint_county_mutual_insurance_refuses_to_pay",
+      "subreddit": "Insurance",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa8-20b5-74d1-b9f8-310cb4277b0a",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "cd604a39-dba2-4dbb-90ad-1353398f9000"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/Insurance/comments/1c0pocg/redpoint_county_mutual_insurance_company_at_fault",
+      "subreddit": "Insurance",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "019dbfa8-20b5-74d1-b9f8-310cb4277b0a",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "cd604a39-dba2-4dbb-90ad-1353398f9000"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1bz1svc/anyone_know_of_affordable_automated_brand",
+      "subreddit": "cybersecurity",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "71610839-020c-47da-8442-76f8558f7203",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "d37f3a38-3e0c-457f-896a-b8cf33e68431"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/msp/comments/15k5zr1/msps_running_huntress_and_ms_defender_no_other",
+      "subreddit": "msp",
+      "thread_title": "",
+      "total_citations": 1,
+      "prompts": [
+        {
+          "id": "a26e64a4-bbac-49fb-b572-f039c698b43b",
+          "text": "",
+          "funnel": "TOFU",
+          "topic_id": "d37f3a38-3e0c-457f-896a-b8cf33e68431"
+        }
+      ],
+      "funnel_tags": [
+        "TOFU"
+      ],
+      "first_seen": "2026-04-20",
+      "primary_funnel": "TOFU",
+      "new_this_week": true,
+      "comp_info": {
+        "competitors_found": [],
+        "rp_mentioned": false,
+        "is_competitive_gap": false
+      },
+      "priority_score": 32,
+      "angle": ""
+    }
+  ],
+  "generated_at": "2026-05-04T12:28:31.599914"
+}
